@@ -12,7 +12,6 @@ st.markdown("""
         background-color: #0B1E3E;
         color: #FFFFFF;
     }
-    
     /* Metrics Styling - အပြာပေါ်မှာ အဖြူ / အဝါပေါ်မှာ အနက် */
     [data-testid="stMetric"] {
         background-color: #162B4E;
@@ -27,13 +26,11 @@ st.markdown("""
     [data-testid="stMetricValue"] {
         color: #008000 !important; /* ကိန်းဂဏန်းကို အဖြူရောင် */
     }
-
     /* Info & Success Boxes */
     .stAlert {
         background-color: #008000 !important; /* အစိမ်းရောင်နောက်ခံ */
         color: #000000 !important; /* အနက်ရောင်စာသား */
     }
-
     /* Input Labels */
     label, p, span {
         color: #FFFFFF !important;
